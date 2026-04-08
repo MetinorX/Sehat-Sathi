@@ -1,0 +1,11 @@
+{
+  "name": "gna-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "dev:frontend": "npm --prefix frontend run dev:fixed",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend run start",
+    "lint": "npm --prefix frontend run lint"
+  }
+}

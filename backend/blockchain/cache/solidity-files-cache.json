@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\Projects\\GNA\\backend\\blockchain\\contracts\\AuditConsentRegistry.sol": {
+      "lastModificationDate": 1775299000601,
+      "contentHash": "2d4ce79f958200a0da2afba0650afbb7",
+      "sourceName": "contracts/AuditConsentRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "AuditConsentRegistry"
+      ]
+    }
+  }
+}

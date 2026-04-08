@@ -1,0 +1,7 @@
+{
+  "contract": "AuditConsentRegistry",
+  "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "chainId": 31337,
+  "rpcUrl": "http://127.0.0.1:8545",
+  "deployedAt": "2026-04-05T03:38:57.868Z"
+}
